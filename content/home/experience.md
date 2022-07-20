@@ -26,7 +26,7 @@ experience:
     company: Pennsylvania State University
     company_url: ''
     company_logo: org-gc
-    location: California
+    location: Pennsylvania, USA
     date_start: '2021-03-15'
     date_end: 'Present'
     description: Guided by Prof. Dongwon Lee and Dr. Thai Le in PIKE Lab.
@@ -35,7 +35,7 @@ experience:
     company: Wuhan University
     company_url: ''
     company_logo: org-x
-    location: California
+    location: Wuhan, China
     date_start: '2020-09-01'
     date_end: 'Present'
     description: Guided by Prof. Qian Wang in NIS&P Lab.
