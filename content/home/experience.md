@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Pennsylvania, USA
     date_start: '2021-03-15'
-    date_end: 'Present'
+    date_end: ''
     description: Guided by Prof. Dongwon Lee and Dr. Thai Le in PIKE Lab.
 
   - title: Research Intern
@@ -37,7 +37,7 @@ experience:
     company_logo: org-x
     location: Wuhan, China
     date_start: '2020-09-01'
-    date_end: 'Present'
+    date_end: ''
     description: Guided by Prof. Qian Wang in NIS&P Lab.
 
 design:
