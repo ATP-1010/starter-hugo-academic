@@ -19,15 +19,15 @@ feature:
   - description: 90%
     icon: r-project
     icon_pack: fab
-    name: R
+    name: python
   - description: 100%
     icon: chart-line
     icon_pack: fas
-    name: Statistics
+    name: Computer Vision and NLP
   - description: 10%
     icon: camera-retro
     icon_pack: fas
-    name: Photography
+    name: Soccer
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
