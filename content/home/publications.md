@@ -10,7 +10,8 @@ headless: true
 weight: 25
 
 title: Publications
-subtitle: ''
+subtitle: 'TextMask: Prevent Authorship Attribution Leaking through
+Public Text Release via Data Poisoning'
 
 content:
   # Filter on criteria
@@ -20,7 +21,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
-    author: ''
+    author: 'Ziyao Wang'
     exclude_featured: false
     exclude_future: false
     exclude_past: false
