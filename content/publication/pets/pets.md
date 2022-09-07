@@ -1,17 +1,14 @@
 ---
-  title: 'KERBNET: A QoE-aware Kernel-Based Backdoor Attack Framework'
+  title: 'TextMask: Prevent Authorship Attribution Leaking through Public Text Release via Data Poisoning'
 
   # Authors
   # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
   # and it will be replaced with their full name and linked to their profile.
   authors:
-    - Xueluan Gong
-    - Yanjiao Chen
-    - Huayang Huang
-    - Weihan Kong
-    - Ziyao Wang
-    - Qian Wang
-    - Chao Shen
+    - ZIyao Wang
+    - Dongwon Lee
+    - Thai Le
+    
 
   # Author notes (optional)
   #  author_notes:
@@ -31,8 +28,8 @@
   publication_types: ['2']
 
   # Publication name and optional abbreviated publication name.
-  publication: In *IEEE Transactions on Pattern Analysis and Machine Intelligence*
-  publication_short: TPAMI in submission
+  publication: In *Privacy Enhancing Technologies Symposium*
+  publication_short: PETs in preperation
 
   abstract: None.
 
@@ -70,15 +67,15 @@
   #   Simply enter your project's folder or file name without extension.
   #   E.g. `internal-project` references `content/project/internal-project/index.md`.
   #   Otherwise, set `projects: []`.
-  projects:
-    - example
+  # projects:
+  #  - example
 
   # Slides (optional).
   #   Associate this publication with Markdown slides.
   #   Simply enter your slide deck's filename without extension.
   #   E.g. `slides: "example"` references `content/slides/example/index.md`.
   #   Otherwise, set `slides: ""`.
-  slides: example
+  # slides: example
 ---
 
 {{% callout note %}}
