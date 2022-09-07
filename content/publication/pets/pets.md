@@ -1,5 +1,7 @@
 ---
   title: 'TextMask: Prevent Authorship Attribution Leaking through Public Text Release via Data Poisoning'
+  
+  weight: 10
 
   # Authors
   # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
