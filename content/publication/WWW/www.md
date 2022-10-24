@@ -33,7 +33,7 @@
 
   # Publication name and optional abbreviated publication name.
   publication: In *The World Web Conference*
-  publication_short: WWW in preperation
+  publication_short: WWW in submission
 
   abstract: None.
 
